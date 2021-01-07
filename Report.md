@@ -24,10 +24,11 @@ eps_end=0.01            # ending epsilon.
 eps_decay=0.995         # epsilon decay.     
 
 
-The plot of the scores shows the learning of the algorithm.
-![score](score.png)
 
-Continuing to train the same agent for longer it plateaud at an average over 100 episodes of around 16 from 800 episodes up to 2000.
+![score](score.png)   
+The plot of the scores shows the learning of the algorithm.  
+The agent solved the environment in 440 episodes, with an average score over the last 100 episodes of 13.07.  
+Continuing to train the same agent for longer it plateaud at an average of around 16 from 800 episodes up to 2000.
 
 
 ## Future work
