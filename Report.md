@@ -40,4 +40,4 @@ Possible improvements include
 * Distributional DQN
 * Noisy DQN
 * Rainbow (a combination of all of the above)
-
+Another option would be to train the agent to learn directly from pixels.
