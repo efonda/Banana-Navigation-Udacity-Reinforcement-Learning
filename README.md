@@ -14,7 +14,7 @@ The task is episodic, meaning that it has a defined end. The environment is cons
 
 ### Getting Started
 
-The code uses python 3.6, numpy and pytorch and UnityEnvironment.
+The code uses python 3.6, numpy, pytorch and UnityEnvironment.
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -30,4 +30,4 @@ The code uses python 3.6, numpy and pytorch and UnityEnvironment.
 
 
 ## Instructions
-Follow the Navigation.ipynb jupyter notebook. You can read more about the project in  Report.ipynb.
+Follow the Navigation.ipynb jupyter notebook. You can read more about the project in  Report.md.
